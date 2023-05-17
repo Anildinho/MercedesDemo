@@ -1,0 +1,9 @@
+.filterDiv {
+    float: left;
+    max-width: 100%;
+    display: none;
+}
+
+.show {
+    display: block;
+}

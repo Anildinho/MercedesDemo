@@ -1,0 +1,233 @@
+@font-face {
+    font-family: "Daimler CAC";
+    src: url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.eot");
+    src: url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.svg#Daimler CAC") format("svg"); }
+
+
+body{
+    max-width: 1080px;
+    max-height: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-family: "Daimler CAC";
+    text-transform: uppercase;
+}
+
+h2, h3, h4, h5, h6, p, button{
+    font-family: "Daimler CAC";
+}
+
+h5{
+    font-size: 1em;
+}
+
+p{
+    font-size: 0.85em;
+}
+
+.topText{
+    margin: 200px 0 100px 0;
+    font-size: 75px;
+    color: white;
+}
+
+.introLogo{
+    width: auto;
+    height: 275px;
+}
+
+.botText{
+    color: white;
+    font-size: 40px;
+    margin-top: 1000px;
+}
+
+.content{
+    width: 1080px;
+    height: 1920px;
+    text-align: center;
+}
+
+.amgLogo{
+    width: auto;
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+
+.modelTopImg{
+    width: auto;
+    height: 64px;
+    float: left;
+    margin: 10px 25px 20px 10px;
+}
+
+.modelTopText{
+    padding-top: 20px;
+}
+
+.modelOverveiw{
+    margin: 20px 0 20px 10px;
+}
+
+.activeNav{
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.text-muted1{
+    font-family: Arial;
+    font-weight: bold;
+    color: #999999;
+}
+
+.text-muted1:hover{
+    color: #00ADEF!important;
+}
+
+.btn:hover{
+    color: #00ADEF!important;
+}
+
+.dropdown .btn{
+    width: 100%;
+    text-align: left;
+    color: #FFFFFF;
+    background-color: #000000;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+.dropdown-menu{
+    width: 100%;
+    font-family: Arial;
+}
+
+.p2{
+    font-size: 16px;
+}
+
+#div1 {
+    display: inline-block;
+}
+
+#div2 {
+    display: inline-block;
+}
+
+.emptySpace{
+    margin-top: 60px;
+}
+
+.btnRoundingElectric2{
+    border: 1px solid #000000;
+    border-radius: 40px;
+    width: 24%;
+    padding-left: 10px;
+    margin-top: 20px;
+    font-family: "Daimler CAC";
+}
+
+.btnRoundingElectric{
+    border: 1px solid #000000;
+    border-radius: 40px;
+    width: 22%;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.btnRoundingNew2{
+    border-radius: 40px;
+    width: 19%;
+    padding-left: 11px;
+    margin-top: 20px;
+    background-color: #00ADEF;
+    color: #ffffff;
+    font-family: "Daimler CAC";
+}
+
+.btnRoundingNew{
+    border-radius: 40px;
+    width: 17%;
+    padding-left: 11px;
+    margin-top: 20px;
+    background-color: #00ADEF;
+    color: #ffffff;
+}
+
+.btnRounding{
+    border: 1px solid #000000;
+    border-radius: 40px;
+    width: 42%;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.rowBox{
+    position: relative;
+    background-color: #F8F8F8;
+    border-radius: 4px;
+    margin: 10px 10px 10px 10px;
+    max-width: 340px;
+}
+
+.rowTitleBox{
+    margin-top: 20px;
+}
+
+.rowCarImg{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/**/
+.mainHeader{
+    margin: 20px 0 20px 0;
+}
+
+
+.navbarText{
+    font-family: "Daimler CAC";
+    font-weight: bold;
+}
+
+.text-center{
+    margin-bottom: 50px;
+}
+
+.lineHeight{
+    line-height: 60%;
+}
+
+.btnConfig{
+    width: 100%;
+}
+
+.container{
+    max-width: 1080px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.center{
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
